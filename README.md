@@ -1,4 +1,6 @@
-![Detona Ralph](./src/images/ralph.png)
+<p align="center">
+  <img src="./src/images/ralph.png" alt="Detona Ralph">
+</p>
 
 # JSGame Detona Ralph
 
